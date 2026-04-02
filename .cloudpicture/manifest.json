@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "repo": "cloudpicture-storage-sarah",
+  "owner": "JulienArbellini",
+  "updatedAt": "2026-04-02T17:53:14.060Z",
+  "assets": [
+    {
+      "id": "cloudpicture-storage-sarah:uploads/2026/04/20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
+      "repoName": "cloudpicture-storage-sarah",
+      "repoVisibility": "public",
+      "fileName": "20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
+      "originalName": "C’est avec plaisir que nous rentrons dans la nouvelle boutique de céramique « Atelier Murmure », (1).webp",
+      "path": "uploads/2026/04/20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 213908,
+      "width": 1080,
+      "height": 1436,
+      "createdAt": "2026-04-02T17:53:12.976Z",
+      "updatedAt": "2026-04-02T17:53:12.976Z",
+      "tags": [
+        "cloudpicture-storage-sarah"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah/main/uploads/2026/04/20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah@main/uploads/2026/04/20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah/blob/main/uploads/2026/04/20260402175312-21b0b59b-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp"
+      }
+    }
+  ]
+}
