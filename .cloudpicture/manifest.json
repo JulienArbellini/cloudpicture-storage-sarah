@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-02T20:33:22.687Z",
+  "updatedAt": "2026-04-03T01:05:37.372Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah:uploads/fixe/20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp",
+      "repoName": "cloudpicture-storage-sarah",
+      "repoVisibility": "public",
+      "fileName": "20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp",
+      "originalName": "Capture d’écran 2026-04-03 à 03.04.06.webp",
+      "path": "uploads/fixe/20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 36736,
+      "width": 698,
+      "height": 956,
+      "createdAt": "2026-04-03T01:05:36.487Z",
+      "updatedAt": "2026-04-03T01:05:36.487Z",
+      "tags": [
+        "cloudpicture-storage-sarah"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah/main/uploads/fixe/20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah@main/uploads/fixe/20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah/blob/main/uploads/fixe/20260403010536-ad3494fe-capture-d-ecran-2026-04-03-a-03-04-06.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah:fixe/20260402175348-0bbf9878-c-est-avec-plaisir-que-nous-rentrons-dans-la-nouvelle-boutiq.webp",
       "repoName": "cloudpicture-storage-sarah",
@@ -121,6 +144,7 @@
     }
   ],
   "folders": [
-    "fixe"
+    "fixe",
+    "uploads/fixe"
   ]
 }
