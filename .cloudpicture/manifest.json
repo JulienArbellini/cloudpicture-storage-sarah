@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-16T13:24:13.513Z",
+  "updatedAt": "2026-04-16T13:26:14.793Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah:uploads/20260416132613-76f17b30-new2.webp",
+      "repoName": "cloudpicture-storage-sarah",
+      "repoVisibility": "public",
+      "fileName": "20260416132613-76f17b30-new2.webp",
+      "originalName": "new2.webp",
+      "path": "uploads/20260416132613-76f17b30-new2.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 144958,
+      "width": 1026,
+      "height": 1024,
+      "createdAt": "2026-04-16T13:26:13.744Z",
+      "updatedAt": "2026-04-16T13:26:13.744Z",
+      "tags": [
+        "cloudpicture-storage-sarah"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah/main/uploads/20260416132613-76f17b30-new2.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah@main/uploads/20260416132613-76f17b30-new2.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah/blob/main/uploads/20260416132613-76f17b30-new2.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah:uploads/20260416132412-cb26a605-gemini-generated-image-vfx6zxvfx6zxvfx6.webp",
       "repoName": "cloudpicture-storage-sarah",
