@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-16T14:26:04.901Z",
+  "updatedAt": "2026-04-16T14:42:08.383Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah:uploads/20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp",
+      "repoName": "cloudpicture-storage-sarah",
+      "repoVisibility": "public",
+      "fileName": "20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp",
+      "originalName": "ChatGPT Image 16 avr. 2026, 14_32_05.webp",
+      "path": "uploads/20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 54026,
+      "width": 1037,
+      "height": 927,
+      "createdAt": "2026-04-16T14:42:07.456Z",
+      "updatedAt": "2026-04-16T14:42:07.456Z",
+      "tags": [
+        "cloudpicture-storage-sarah"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah/main/uploads/20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah@main/uploads/20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah/blob/main/uploads/20260416144207-6f906e39-chatgpt-image-16-avr-2026-14-32-05.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah:uploads/20260416142604-2c2ab963-chatgpt-image-16-avr-2026-14-32-05.webp",
       "repoName": "cloudpicture-storage-sarah",
