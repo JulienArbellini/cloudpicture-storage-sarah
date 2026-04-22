@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-21T22:10:24.167Z",
+  "updatedAt": "2026-04-22T11:58:44.273Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah:uploads/20260422115843-198ef7b8-bas.webp",
+      "repoName": "cloudpicture-storage-sarah",
+      "repoVisibility": "public",
+      "fileName": "20260422115843-198ef7b8-bas.webp",
+      "originalName": "Bas.webp",
+      "path": "uploads/20260422115843-198ef7b8-bas.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 69502,
+      "width": 2800,
+      "height": 125,
+      "createdAt": "2026-04-22T11:58:43.518Z",
+      "updatedAt": "2026-04-22T11:58:43.518Z",
+      "tags": [
+        "cloudpicture-storage-sarah"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah/main/uploads/20260422115843-198ef7b8-bas.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah@main/uploads/20260422115843-198ef7b8-bas.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah/blob/main/uploads/20260422115843-198ef7b8-bas.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah:uploads/20260421221023-93cf50d8-ateliermurmure.webp",
       "repoName": "cloudpicture-storage-sarah",
